@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 876.8
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -120,7 +120,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 335
+  controlID: 130
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 229
+  controlID: 27
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -227,7 +227,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 253
+  controlID: 51
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -1007,7 +1007,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 25540
+  m_LastSelectedObjectID: -26094
 --- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1045,9 +1045,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 26830000
+      m_SelectedIDs: 2e660000
       m_LastClickedID: 0
-      m_ExpandedIDs: 7c41ffff
+      m_ExpandedIDs: eefaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1116,7 +1116,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts 1/PROTOTYPE
+    - Assets/Scripts 1/State Pattern
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -1124,16 +1124,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts 1/PROTOTYPE
+  - Assets/Scripts 1/State Pattern
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\Code game sau khoa hoc 21-10-2024\Unity Game Design Pattern
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f6820000
-    m_LastClickedID: 33526
-    m_ExpandedIDs: 000000005c8100006081000092810000ec81000000ca9a3bffffff7f
+    m_SelectedIDs: 0e660000
+    m_LastClickedID: 26126
+    m_ExpandedIDs: 00000000646500006665000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1161,7 +1161,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005c81000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000006465000066650000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1192,15 +1192,15 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: d2610000286b00001e6700006a6c00003e6700005a880000d4830000d4aa000054850000d874000008620000106c0000186d0000ae620000000000003c650000c86300006a810000dc6b0000466400006e640000e46f000002670000e2640000f26400002e6500005e68000084650000ae6500000a6600003e660000ea6c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: MonsterSpawner
-      m_OriginalName: MonsterSpawner
+      m_Name: RunState
+      m_OriginalName: RunState
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 33574
+      m_UserData: 26158
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
